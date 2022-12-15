@@ -1,5 +1,5 @@
 $(function () {
-  var max = 10;
+  var max = 75;
   var bingo = [];
   for (var i = 1; i <= max; i++) {
     bingo.push(i);
